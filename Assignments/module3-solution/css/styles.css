@@ -9,7 +9,7 @@ body {
 /** HEADER **/
 
 #header-nav {
-    background-color: gray;
+    background-color: #FFA351FF ;
     border-radius: 0;
     border: 0;
 }
@@ -57,7 +57,7 @@ body {
 
 #nav-list a:hover {
     color: #202020;
-    background-color: #d5f3d1;
+    background-color: lightblue;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -91,7 +91,7 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #dcfad1;
+    background-color: #56A8CBFF;
     margin-bottom: 60px;
 }
 
